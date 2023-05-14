@@ -21,7 +21,7 @@ Ankasa app merupakan aplikasi berbasis web yang menampilkan digunakan tiket untu
 - [Visit App](https://github.com/revofarissaifuddin/ankasaBE)
 
 ## Link APP
-- [Visit App](https://ankasaapp-revfs.vercel.app/)
+- [Visit App](https://ankasa-app-rev.vercel.app/)
 ## Tampilan UI Web App
 
 <!-- https://drive.google.com/uc?export=view&id= -->
@@ -33,7 +33,7 @@ Ankasa app merupakan aplikasi berbasis web yang menampilkan digunakan tiket untu
 | <img src="https://drive.google.com/uc?export=view&id=1YypA7334IvkZREGUDnLFuQtd_qhUPY-i" width="450"> | <img src="https://drive.google.com/uc?export=view&id=1ebfZppUaprJgu-FqHVWEeNGRsWpyIK35" width="450">|
 | Landing Page | Home Page |
 |||
-| <img src="https://drive.google.com/uc?export=view&id=1Z3QC_000ZDuvJnMAI38IDnoTZW_UcLPg" width="450">|<img src="https://drive.google.com/uc?export=view&id=1Sr4qpapFgwAzSyydXsnPHP2uzSbbCsU6" width="450"> |
+| <img src="https://drive.google.com/uc?export=view&id=1R61mNX3gZsF5uQk9nhtdkHncCew3Ed7M" width="450">|<img src="https://drive.google.com/uc?export=view&id=1Sr4qpapFgwAzSyydXsnPHP2uzSbbCsU6" width="450"> |
 | DetailSelected Page | Booking Payment Page |
 |||
 | <img src="https://drive.google.com/uc?export=view&id=17Y-ue5d5Mk8ky3AkEuPtqof_V4oxNvl-" width="450">|<img src="https://drive.google.com/uc?export=view&id=1Hf2LOxoYhoeKWJaNCgqXS6FzPkaZRXUF" width="450"> |
@@ -42,7 +42,7 @@ Ankasa app merupakan aplikasi berbasis web yang menampilkan digunakan tiket untu
 | <img src="https://drive.google.com/uc?export=view&id=1YS7hr95qlW_YPyqs5mop4iDcjH0diD2A" width="450">|<img src="https://drive.google.com/uc?export=view&id=1tEK6buSzp7IccMPqx0A7MyCa4TbGoW8M" width="450"> |
 | Tiket Page |  |
 |||
-| <img src="https://drive.google.com/uc?export=view&id=1GykvJ1kYeuk23EsGs2SSx2A274x37lY1" width="450">|<img src="" width="450"> |
+| <img src="https://drive.google.com/uc?export=view&id=1DyuoMum0AT8h85p1_un5s_4iIplzjKmR" width="450">|<img src="" width="450"> |
 
 ## Tampilan UI Mobile App
 
