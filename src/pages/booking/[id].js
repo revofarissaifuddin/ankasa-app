@@ -329,6 +329,13 @@ export default function BookingSelected() {
                       <button
                         className="rounded-lg shadow-md w-auto xl:w-96 p-2 text-xl drop-shadow-xl"
                         style={{ backgroundColor: "#2395FF", color: "white" }}
+                        disabled={
+                          !title ||
+                          !insurance ||
+                          !fullname ||
+                          !nationality ||
+                          loading
+                        }
                         onClick={handleBooking}
                       >
                         {loading ? <SyncOutlined spin /> : "Proceed to Payment"}
