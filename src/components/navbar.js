@@ -24,7 +24,6 @@ export default function Navbar() {
   }, [cookies]);
   
   const handleRemove = () => {
-    // removeCookie("token", { path: "/" });
     removeCookie("token", { path: "/" });
     router.push("/");
   };

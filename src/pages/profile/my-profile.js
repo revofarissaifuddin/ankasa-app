@@ -306,6 +306,15 @@ export default function MyProfile() {
                                         backgroundColor: "#2395FF",
                                         color: "white",
                                       }}
+                                      disabled={
+                                        !email ||
+                                        !phone ||
+                                        !fullname ||
+                                        !city ||
+                                        !address ||
+                                        !postcode ||
+                                        loading
+                                      }
                                     >
                                       {loading ? (
                                         <SyncOutlined spin />

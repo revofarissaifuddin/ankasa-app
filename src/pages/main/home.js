@@ -48,15 +48,6 @@ function valuetext(value) {
   return `${value}`;
 }
 
-/* export async function getStaticProps() {
-  const resp = await fetch(url + `/tickets/show-all/`);
-
-  return {
-    props: {
-      data: await resp.json(),
-    },
-  };
-} */
 export default function Home() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
