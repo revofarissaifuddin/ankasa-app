@@ -7,8 +7,11 @@
         </a>
         <h2>Ankasa App</h2>
         <h6>
-            <a href="https://ankasa-app-rev.vercel.app/">View Demo ||</a>
-            <a href="https://github.com/revofarissaifuddin/ankasa-app/issues">Report Bug ||</a>
+          <a href="https://github.com/revofarissaifuddin/ankasa-app"><strong>Explore the docs »</strong></a>
+        </h6>
+        <h6 align="center"> 
+            <a href="https://ankasa-app-rev.vercel.app/">View Demo</a> ||
+            <a href="https://github.com/revofarissaifuddin/ankasa-app/issues">Report Bug</a> ||
             <a href="https://github.com/revofarissaifuddin/ankasa-app/issues">Request Feature</a>
         </h6>
     </div>
@@ -198,7 +201,7 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
 ## Developer
 
 <center>
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://github.com/revofarissaifuddin">
