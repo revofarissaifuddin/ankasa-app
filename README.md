@@ -205,7 +205,7 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
     <tr>
       <td align="center">
         <a href="https://github.com/revofarissaifuddin">
-          <img width="200" src="https://drive.google.com/uc?export=view&id=1mkarUQzmqBSWD9t5uZQS3iqR3apOzLXF" alt="Fandi"><br/>
+          <img width="200" src="https://drive.google.com/uc?export=view&id=1mkarUQzmqBSWD9t5uZQS3iqR3apOzLXF" alt=""><br/>
           <sub><b>Revo Faris Saifuddin</b></sub> <br/>
           <sub>revofaris99@gmail.com</sub>
         </a>
